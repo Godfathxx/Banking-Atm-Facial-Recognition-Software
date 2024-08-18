@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/Godfathxx/Banking-Atm-Facial-Recognition-Software.git
 cd banking-atm-facial-recognition
 Install dependencies:
 
